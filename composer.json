@@ -25,7 +25,7 @@
   
   "require": {
     "php": "^7.0",
-    "gocardless/enterprise": "^6.0",
+    "gocardless/enterprise": "dev-guzzle7",
     "stof/doctrine-extensions-bundle": "*",
     "symfony/symfony": "^3.4.26|^4.0|^5.0"
   },
